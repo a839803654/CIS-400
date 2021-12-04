@@ -27,7 +27,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-- [Report](https://docs.google.com/document/d/1mI-vqQbIy9HG9MaFVDy99ygOIESVF4sDobCRIiM2pdk/edit)
+- [Report](https://docs.google.com/document/d/1yPkQQ_gTDDU6uHqKQLsRTlXVDFQUeOXjBHgXaZnK-xQ/edit)
 - [PowerPoint](https://docs.google.com/presentation/d/1jkdEimbC12bWSYZ9-7BDhV9HOQqJnd6gsSIxhTVKZeA/edit#slide=id.p)
 ## 🏁 Getting Started <a name = "getting_started"></a>
 ### Prerequisites
