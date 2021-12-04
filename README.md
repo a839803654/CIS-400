@@ -61,7 +61,7 @@ https://www.youtube.com/watch?v=6R9GXjnwYVQ
 2. add someone you want to see location(currently unable to use)
 3. open Google Map to see Realtime location(others location currently created by emulator)
 4. reopen map to update location
-
+5. weather fregment provide surrending tempareture, and give suggestion.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
