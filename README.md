@@ -70,11 +70,11 @@ https://www.youtube.com/watch?v=6R9GXjnwYVQ
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@Yuhao Chen](https://github.com/a839803654) - basic structure, Associated sensor, firebase construction and Art Design and presentation, report, powerpoint and demo association
+- [@Yuhao Chen](https://github.com/dkshkb) - basic structure, Associated sensor, firebase construction and Art Design and presentation, report, powerpoint and demo association
 - [@Runzhou Chen](https://github.com/jeren-c) - idea, initialize Google Map, README, Art Design and presentation, report and powerpoint association
-- [@Zongxiu Wu]() - Art Design and presentation, report and powerpoint association 
-- [@Jinchao Zhao]() - presentation, report and powerpoint association 
-- [@Hang Zhao]() - presentation, report and powerpoint association  
+- [@Zongxiu Wu](https://github.com/YDHK) - Art Design and presentation, report and powerpoint association 
+- [@Jinchao Zhao](https://github.com/Jcjc9521) - presentation, report and powerpoint association 
+- [@Hang Zhao](https://github.com/a839803654) - presentation, report and powerpoint association  
 
 See also the list of [contributors](https://github.com/a839803654/CIS-400/graphs/contributors) who participated in this project.
 
