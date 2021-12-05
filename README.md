@@ -66,6 +66,7 @@ https://www.youtube.com/watch?v=6R9GXjnwYVQ
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [Firebase](https://firebase.google.com/) - Database
+- [Android Studio](https://developer.android.com/) - IDE & Emulator
 
 
 ## ✍️ Authors <a name = "authors"></a>
